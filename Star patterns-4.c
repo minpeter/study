@@ -3,6 +3,7 @@ void main()
 {
 	int i,j,k;
 	int size=5; //The size of the rectangle
+	
 	for (i=0; i<=size; i++)
 	{
 		for (j=0; j<i; j++)
