@@ -1,4 +1,5 @@
 # c star patterns practice
+~~~
 
 1. 
 *	*	*
@@ -26,3 +27,5 @@ i       i       *       *       *
 i       i       i       *       *
 i       i       i       i       *
 i       i       i       i       i
+
+~~~
