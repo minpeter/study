@@ -28,4 +28,12 @@ i       i       i       *       *
 i       i       i       i       *
 i       i       i       i       i
 
+5.
+i       i       i       i       i
+i       i       i       i       *
+i       i       i       *       *
+i       i       *       *       *
+i       *       *       *       *
+*       *       *       *       *
+
 ~~~
