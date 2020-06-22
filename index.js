@@ -1,5 +1,7 @@
-//array
+//obejct
+const something = {
+    name:"minpeter",
+    age:16
+}
 
-const daysWeek = ["Mon","Tue","Wed","Thu","Fri","Sat","Snu"];
-
-console.log(daysWeek[2]);
+console.log(something.name);
