@@ -1,7 +1,5 @@
-const mon = "Mon";
-const tue = "Tue";
-const wed = "Wed";
-const thu = "Thu";
-const fri = "Fri";
+//array
 
-console.log(mon,tue,wed,thu,fri);
+const daysWeek = ["Mon","Tue","Wed","Thu","Fri","Sat","Snu"];
+
+console.log(daysWeek);
