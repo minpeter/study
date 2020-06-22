@@ -5,3 +5,4 @@ const something = {
 }
 
 console.log(something.name);
+console.log(something.age);
