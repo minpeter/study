@@ -1,5 +1,7 @@
-const title = document.getElementById("title");
-
-console.log(title);
-
-title.innerHTML = "HTML Ctrl";
+if(10 === "10"){
+    console.log('hi');
+}else if ("10" === "10"){
+    console.log("lalala");
+}else{
+    console.log("ho");
+}
