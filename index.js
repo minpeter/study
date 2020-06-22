@@ -1,8 +1,7 @@
-console.log("dkdkdk");
+const mon = "Mon";
+const tue = "Tue";
+const wed = "Wed";
+const thu = "Thu";
+const fri = "Fri";
 
-
-//camel case
-
-let myname = 12;
-
-console.log(myname);
+console.log(mon,tue,wed,thu,fri);
