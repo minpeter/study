@@ -1,5 +1,7 @@
-if(20 > 5 || "minpeter" === "minpeter"){
-    console.log('yes');
+const age = prompt("how old are you");
+
+if(age > 18){
+    console.log('you can drink');
 }else{
-    console.log("no");
+    console.log("you cna't");
 }
