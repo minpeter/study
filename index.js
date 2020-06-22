@@ -1,6 +1,5 @@
-function sayHello(name){
-   return `hello ${name}`;
-}
+const title = document.getElementById("title");
 
-const a =sayHello("minpeter");
-console.log(a);
+console.log(title);
+
+title.innerHTML = "HTML Ctrl";
