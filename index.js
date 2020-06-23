@@ -1,9 +1,21 @@
-const age = prompt("how old are you");
+const title = document.querySelector("#title");
 
-if(age >= 18 && age <= 21){
-    console.log("you can drink but should not");
-}else if(age > 21){
-    console.log("go ahed");
-}else{
-    console.log("you can't");
+const BASE_COLOR = "rgb(255, 255, 255)";
+const OTHER_COLOR = "rgb(0, 0, 0)";
+
+function handleClick(){
+   const currentColor = title.style.color;
+   console.log(currentColor);
+   if (currentColor === BASE_COLOR){
+       title.style.color = OTHER_COLOR;
+   }else{
+       title.style.color = BASE_COLOR;
+   }
 }
+function init(){
+    title.style.color = BASE_COLOR;
+    title.addEventListener("click", handleClick);
+}
+init();
+
+title.addEventListener("click", handleClick);
