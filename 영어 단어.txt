@@ -1,0 +1,100 @@
+binoculars,쌍안경
+according to,따르면. 의하면. ...고 하다
+scraper,긁는 기구. 끌
+merry-go-round,회전목마
+tortoise,거북. 거북이. 자라. 남생이
+dolphin,돌고래
+camel,낙타
+zebra,얼룩말
+giraffe,기린. 기린자리
+crocodile,악어. 크로코다일
+octopus,문어. 낙지
+bean,콩. 열매
+cucumber,오이. 덩굴 식물 및 그 열매
+cabbage,양배추
+herb,허브. 약초. 엽채류
+poisonous,독성의. 독. 유해한. 독소의
+seed,종자. 씨앗. 씨. 뿌리다. 시드
+annual ring,나이테. 연륜
+livestock,가축. 축산물
+scarecrow,허수아비. 허깨비. 초라한 사람
+pasture,목초지. 방목하다. 새로운 활동
+orchard,과수원
+indicate,나타내다. 가리키다. 지적하다. 표시하다. 암시하다
+barometer,지수. 바로미터. 기압계
+temperature,온도. 열. 날씨
+climate,기후. 풍토. 날씨. 분위기
+condition,조건. 상태. 환경. 상황. 병
+forecast,예상. 전망하다. 예보. 내다보다
+disaster,재난. 재앙. 사고. 피해. 실패
+source,정보원. 원천. 소스. 공급자. 자료
+appear,나타나다. …처럼 보이다. 출연하다. …인 듯하다. 생기다
+element,요소. 원소. 구성. 원리. 가지
+artificial,인공의. 인위적인. 인조의
+amusement,즐거움. 놀이. 재미. 오락
+creature,생물. 생명체. 동물. 창조물
+canyon,협곡
+ranger,레인저. 관리원. 대원. 감시원. 경비원
+stuff,물건. 물질. 넣다. 음식물
+skeleton,골격. 뼈. 해골
+dune,모래 언덕
+expose,노출하다. 보이다. 폭로하다. 드러내다. 경험하다
+pail,원통형 용기
+refill,리필. 다시 차다. 재충전
+bill,법안. 빌. 지폐. 증권. 청구서
+wrap,포장하다. 마치다. 두르다. 비닐 랩. 요약하다
+beverage,음료. 마실 것
+quality,품질. 질. 특성. 자질. 고급의
+tax,세. 세금. 과세하다
+catalog,카탈로그. 목록
+reasonable,합리적인. 합당한. 이성적인. 논리적인. 분별이 있는
+retail,소매. 유통. 판매. 마트. 매장
+surf,파도타기를 하다. 밀려오는 파도. 흰 파도
+dive,잠수하다. 다이빙하다. 뛰어들다. 하강하다. 급락하다
+sweat,땀을 흘리다. 스웨트. 걱정하다. 초조하다
+referee,심판. 판정. 주심. 심사단. 신원보증
+auction,경매. …을 경매하다. …을 경매에 부치다
+score,점수. ~점. 득점하다. 기록하다. 평가하다
+athlete,운동선수
+involve,관련되다. 참여하다. 연루되다. 포함하다. 수반하다
+leisure,여가. 레저. 한가한
+knit,뜨개질을 하다. 니트. 결합하다. 찌푸리다
+chat,채팅하다. 이야기하다. 수다떨다. 메시지
+volunteer,봉사하다. 자원하다. 지원하다. 자발적인. 참가자
+mania,열광. 조병. …광
+delay,지연시키다. 연기하다. 지체시키다. 늦추다. 미루다
+depart,떠나다. 출발하다. 벗어나다. 죽다
+abroad,해외에. 외국에. 널리
+destination,목적지. 관광지. 여행지. 장소. 목표
+claim,주장하다. 말하다. 요구하다. 차지하다. 제기하다
+baggage,수화물. 짐. 가방
+itinerary,일정. 기행. 여행. 여정
+emergency,응급. 비상. 긴급한. 위기. 급변
+operate,운영하다. 영업하다. 작동하다. 운전하다. 수술하다
+medical,의료의. 의학의. 의사의. 건강의. 진료
+prevent,막다. 방지하다. 예방하다. 못하게 하다. 금지하다
+recover,회복하다. 회수하다. 복구하다. 되찾다. 찾아내다
+bruise,멍. 상처. 타박상
+disabled,장애의. 지체부자유자. 불구. 불편한. 망가진
+injure,부상을 입히다. 상처를 입히다
+wound,상처. 고통
+symptom,증상. 증세. 증후군
+observe,관찰하다. 보다. 지키다. 준수하다. 목격하다
+flavor,맛. 향. 풍미. 정취. 조미료
+whisper,속삭이다. 속삭임. 휘파람 불다
+stare,쳐다보다. 바라보다. 응시하다. 노려보다. 뚫어지게 보다
+flat,납작한. 평면. 아파트. 시시한. 한 푼 없는
+manager,관리인. 매니저. 감독. 경영자. 부장
+photocopy,사진 복사하다. 사진 복사
+doc-ument,n.문서.서류/v.문서로 증명하다
+stationery,문방구. 문구
+calculator,계산기. 계산자. 계산표. 산출표
+bleach,표백. 미백. 탈색. 백화. 블리칭
+polish,다듬다. 폴란드의. 광택. 닦다. 세련되다
+trim,잘라내다. 다듬다. 장식. 날씬한
+rake,갈퀴. 긁어모으다
+conveyor belt,컨베이어 벨트
+deli,조제 식품. 조제 식품 판매점
+poultry,가금. 사육 조류. 그 고기
+dairy,유제품의. 젖소. 낙농업
+aisle,통로. 매장. 복도
