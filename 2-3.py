@@ -5,7 +5,8 @@ def addlist():
 	bucketlist.append(input("하고 싶은 일을 입력:"))
 
 def savelist():
-	file.write(str(bucketlist))
+	for i in range(len(bucketlist)):
+		file.write('%s\n'%str(bucketlist[i]))
 	
 
 for i in range(5):
