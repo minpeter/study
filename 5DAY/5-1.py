@@ -5,8 +5,8 @@ time = datetime.datetime.now()
 nowh = int(time.strftime("%H"))
 nowm = int(time.strftime("%M"))
 
-endh = 19
-endm = 45
+endh = int(input("끝나는 시간을 입력하세요:"))
+endm = int(input("끝나는 분을 입력하세요:"))
 h = endh-nowh
 m = 0
 
