@@ -6,6 +6,7 @@ def solution(number):
             if(ic%10==3 or ic%10==6 or ic%10==9):
                 count += 1
             ic = ic // 10
-    print(count)
+    return count
         
-solution(3000)
+
+print(solution(int(input("369게임 횟수: "))))
