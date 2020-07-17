@@ -1,8 +1,11 @@
 def solution(number):
-    c = 0
-    for i in range(number):
-        if i % 3 == 0:
-            c = c + 1
-    return c
-
-print(solution(40))
+    count = 0
+    for i in range(1,number+1):
+        ic = i
+        while ic != 0:
+            if(ic%10==3 or ic%10==6 or ic%10==9):
+                count += 1
+            ic = ic // 10
+    print(count)
+        
+solution(3000)
