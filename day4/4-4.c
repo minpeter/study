@@ -15,5 +15,5 @@ int plusprint(int input_number){
 		sum += i;
 	}
 
-	printf("1부터 %d까지의 합 : %d\n", input_number, sum);
+	printf("1부터 %d까지의 합 : %d\n", input_number, num);
 }
