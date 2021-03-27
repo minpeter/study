@@ -14,14 +14,20 @@ int main(){
         printf("모든값을 양수로 입력해주세요\n");
     }
     else{
-        squaredSub(num1,num2);
+        printf("결과값: %d\n",squaredSub(num1,num2));
     }
 
     return 0;
 }
 
 int squaredSub(int n1,int n2){
-    int result;
+    n1*=n1;
+    n2*=n2;
 
-    return result;
+    if (n1 > n2){
+        return n1-n2;
+    }
+    else{
+        return n2-n1;
+    }
 }
