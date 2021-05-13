@@ -9,11 +9,11 @@
 
 	> rustConcept
 	> * Rust의 일반적인 이해
-	> * (2021.5.12) <br>
+	> * (2021.5.12 ~ 2021.5.13) <br>
 
 	> rustErrorProcess
 	> * Rust의 오류 처리
-	> * (2021.5.12 ~ 2021.5.) <br>
+	> * (2021.5.13 ~ 2021.5.) <br>
 
 
 2. PythonWorkspace
