@@ -33,5 +33,15 @@
 	> cSSR
 	> * 자료구조 구현을 위한 프로그래밍 기법
 	> * (2021.5.18 ~ 2021.*)
+
+4. ColabWorkspace
+	> 참고자료
+	> * https://www.youtube.com/watch?v=5DfACSYgP0U&ab_channel=%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%B0%EA%B5%AC%EC%86%8C
+	> * <br>
+
+	> _Matplotlib 한번에 제대로 배우기.ipynb
+	> * matplotlib 기초 공부
+	> * (2021.5.28 ~ 2021.6.4) -> 동아리 과제
+
 #  목표
 - [ ] rust 기초 마스터하기
