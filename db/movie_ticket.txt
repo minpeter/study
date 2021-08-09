@@ -1,8 +1,0 @@
-seat =  [['EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC'],  
-        ['EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC', 'EC'],   
-        ['EC', 'EC', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'EC', 'EC'],  
-        ['EC', 'EC', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'EC', 'EC'],   
-        ['EC', 'EC', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'EC', 'EC'],  
-        ['EC', 'EC', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'RE', 'EC', 'EC'],   
-        ['SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP'], 
-        ['SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP', 'SP']] 
