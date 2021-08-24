@@ -21,27 +21,26 @@
 	> * python(멘토르스쿨)
 	> *  <br>
 
-	> PythonClass
+	> School
 	> * python 전체 과정
 	> * (2021.2.학기시작) ~ (2021.12.학기끝)
+
+	> Academy
+	> * 파이썬기초문법, tkinter
+	> * (2020.*.*) ~ (1개월)
 
 3. CWorkspace
 	> 참고자료
 	> * ssr 자료구조 구현을 위한 프로그래밍 기법 학습지
 	> * <br>
 
-	> cSSR
+	> SSR
 	> * 자료구조 구현을 위한 프로그래밍 기법
 	> * (2021.5.18 ~ 2021.*)
 
-4. ColabWorkspace
-	> 참고자료
-	> * https://www.youtube.com/watch?v=5DfACSYgP0U&ab_channel=%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%B0%EA%B5%AC%EC%86%8C
-	> * <br>
-
-	> _Matplotlib 한번에 제대로 배우기.ipynb
-	> * matplotlib 기초 공부
-	> * (2021.5.28 ~ 2021.6.4) -> 동아리 과제
+	> star-patterns
+	> * C언어 for문 연습용 별찍기 예제 기초
+	> * 내가 깃허브 가입하고 처음 만들었던 repo 사본
 
 #  goal
 - [x] rust 기초 마스터하기
