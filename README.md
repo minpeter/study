@@ -21,7 +21,7 @@
 	> * python(멘토르스쿨)
 	> *  <br>
 
-	> pythonclass
+	> PythonClass
 	> * python 전체 과정
 	> * (2021.2.학기시작) ~ (2021.12.학기끝)
 
