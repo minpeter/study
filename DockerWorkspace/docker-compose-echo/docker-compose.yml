@@ -1,0 +1,22 @@
+version: '3'
+services:
+  flask-echo:
+    image: minpeter/flask-echo
+    build: ./flask-echo
+    ports:
+        - "5000:5000"
+    networks:
+        - test
+  nginx-echo:
+    image: minpeter/nginx-echo
+    build: ./nginx-echo
+    ports:
+        - "80:80"
+    depends_on:
+        - flask-echo
+    networks:
+        - test
+
+networks:
+  test:
+    driver: bridge
