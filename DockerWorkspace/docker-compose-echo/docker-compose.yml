@@ -11,7 +11,7 @@ services:
     image: minpeter/nginx-echo
     build: ./nginx-echo
     ports:
-        - "80:80"
+        - "1936:80"
     depends_on:
         - flask-echo
     networks:
